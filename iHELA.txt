@@ -1,0 +1,33 @@
+0. LINUX
+
+https://openclassrooms.com/en/courses/7274161-administrez-un-systeme-linux
+
+1. HTML & CSS :
+
+https://openclassrooms.com/en/courses/5265446-build-your-first-web-pages-with-html-and-css
+
+
+2. Python (Backend)
+
+https://openclassrooms.com/en/courses/6902811-learn-python-basics
+
+https://openclassrooms.com/fr/courses/6900846-set-up-a-python-environment
+
+https://openclassrooms.com/en/courses/6900856-learn-programming-with-python
+
+
+3. Django (Backend) :
+
+https://openclassrooms.com/en/courses/6967196-create-a-web-application-with-django
+
+https://openclassrooms.com/en/courses/7107341-intermediate-django
+
+
+4. DJANGO REST FRAMEWORK (For APIs)
+
+https://openclassrooms.com/fr/courses/7192416-mettez-en-place-une-api-avec-django-rest-framework
+
+
+5. CODE SHARING
+
+https://openclassrooms.com/en/courses/5671626-manage-your-code-project-with-git-github 
